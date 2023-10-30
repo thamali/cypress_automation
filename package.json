@@ -1,0 +1,26 @@
+{
+  "name": "soltia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thamali/soltia.git"
+  },
+  "author": "iresha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thamali/soltia/issues"
+  },
+  "homepage": "https://github.com/thamali/soltia#readme",
+  "dependencies": {
+    "cypress": "^13.3.3"
+  },
+  "devDependencies": {
+    "cypress-mochawesome-reporter": "^3.6.1",
+    "cypress-xpath": "^2.0.1"
+  }
+}
